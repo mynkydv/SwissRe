@@ -1,0 +1,22 @@
+1. Python
+	- Create search engine
+	- GoldenEye model
+	- MRP NatCat
+	- CNN/KPN etc.
+	
+2. Azure
+	- Creating Pipelines
+	- Diagnostics
+	- Analytics/Usage/Budgeting
+	- AZ-204, AZ-400
+	
+3. PMP
+	- DPU course
+	- Project Log
+	- Registration - reimbursement
+	
+4. Git Repo
+	- Update PM/CM slides
+	- Update Vision slides
+	- FireApp code
+	
